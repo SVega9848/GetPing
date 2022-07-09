@@ -1,0 +1,11 @@
+name: GetPing-By-SVega
+main: GetPing\Core\Main
+version: 0.1.0
+api: [3.2.0, 4.0.0]
+author: SVega
+description: Get your ping!
+
+permissions:
+  getping.cmd:
+    description: Allows you to use the Ping command!
+    default: op
