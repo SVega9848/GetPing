@@ -5,4 +5,5 @@ branches:
 projects:
   GetPing:
     path: ""
+    icon: "icon.png"
 ...
