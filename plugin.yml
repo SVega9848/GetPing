@@ -1,7 +1,7 @@
 name: GetPing
 main: SVega9848\GetPing\Core\Main
 version: 0.1.0
-api: [4.1.0, 4.6.2]
+api: 4.1.0
 author: SVega
 description: Get your ping!
 
